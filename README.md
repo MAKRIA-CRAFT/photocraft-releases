@@ -1,2 +1,2 @@
 # photocraft-releases
-Mak Photo — downloads (installers only)
+My Photo — downloads (installers only)
